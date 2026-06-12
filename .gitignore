@@ -8,10 +8,13 @@
 
 # extras
 .idea
-.vscode
 bash.exe.stackdump
 NOTES.md
 
 # node modules
 node_modules
 
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
